@@ -13,6 +13,7 @@
 		3214BE0C2AF6367100A2AC7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3214BE0A2AF6367100A2AC7A /* Main.storyboard */; };
 		3214BE0E2AF6367A00A2AC7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3214BE0D2AF6367A00A2AC7A /* Assets.xcassets */; };
 		3214BE112AF6367A00A2AC7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3214BE0F2AF6367A00A2AC7A /* LaunchScreen.storyboard */; };
+		3214BE192AF648EB00A2AC7A /* CoffeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3214BE182AF648EA00A2AC7A /* CoffeeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3214BE0D2AF6367A00A2AC7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3214BE102AF6367A00A2AC7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3214BE122AF6367A00A2AC7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3214BE182AF648EA00A2AC7A /* CoffeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3214BE042AF6367100A2AC7A /* AppDelegate.swift */,
 				3214BE062AF6367100A2AC7A /* SceneDelegate.swift */,
 				3214BE082AF6367100A2AC7A /* ViewController.swift */,
+				3214BE182AF648EA00A2AC7A /* CoffeeModel.swift */,
 				3214BE0A2AF6367100A2AC7A /* Main.storyboard */,
 				3214BE0D2AF6367A00A2AC7A /* Assets.xcassets */,
 				3214BE0F2AF6367A00A2AC7A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3214BE092AF6367100A2AC7A /* ViewController.swift in Sources */,
+				3214BE192AF648EB00A2AC7A /* CoffeeModel.swift in Sources */,
 				3214BE052AF6367100A2AC7A /* AppDelegate.swift in Sources */,
 				3214BE072AF6367100A2AC7A /* SceneDelegate.swift in Sources */,
 			);
